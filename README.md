@@ -1,8 +1,5 @@
 # ComputationalThermalEngineering
 
-## Preconfiguration packages:
-https://1drv.ms/f/s!AqT2YEB97-1RgP8MtsMPqoOGsq4ddg?e=IocXv0
-
 ## List
 Follow instructions in **installation_steps.pdf**
 1. Virtual Box [to create virtual machines]
