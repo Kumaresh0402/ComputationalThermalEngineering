@@ -9,9 +9,6 @@ Follow instructions in **installation_steps.pdf**
 2. Operating System: Ubuntu 22.04 [Install OpenFOAMv2306 & Octave]
 3. AnyDesk [For remote access]
 
-## Create a github account:
-https://github.com
-
 ### Discussion forum:
-https://github.com/exaslate-courses/cfd-openfoam-b1/discussions
+https://github.com/Kumaresh0402/ComputationalThermalEngineering/discussions
 
