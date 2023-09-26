@@ -1,4 +1,4 @@
-%% Estimating numerical first order derivatives
+%% Estimating numerical second order derivative for second order central difference method
 
 clear all;
 close all;
