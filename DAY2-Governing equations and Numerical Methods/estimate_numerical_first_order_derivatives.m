@@ -35,7 +35,7 @@ hold on;
 plot(x(2:n-1), yp(2:n-1), '-b', 'linewidth', 2);
 plot(x(2:n-1), yp_forwardDifference(2:n-1), '--om', 'linewidth', 2);
 plot(x(2:n-1), yp_central(2:n-1), 'ov', 'linewidth', 2);
-legend('analytical', 'upwind', 'centraldifference', 'location', 'northwest');
+legend('analytical', 'forwardDifference', 'centraldifference', 'location', 'northwest');
 hold on;
 xlabel('x');
 ylabel('d\rho/dx=2x');
