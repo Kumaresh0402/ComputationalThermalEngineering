@@ -1,3 +1,5 @@
+**Flow over a sphere**
+
 1) How to create a sphere
 
 ** Use any modelling software
@@ -10,4 +12,4 @@
 * blockMesh
 * surfaceFeatureExtract
 * snappyHexMesh -overwrite
-* interFoam
+* icoFoam
